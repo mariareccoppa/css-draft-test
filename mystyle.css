@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+  background-color: violet;
+}
+h1 {
+  font-size: 200%;
+  border-style: dotted;
+}
+p {
+  font-size: 50%;
+}
+strong {
+  font-size: 3em;
+}
